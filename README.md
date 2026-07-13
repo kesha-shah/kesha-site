@@ -1,12 +1,6 @@
 # kesha.twounderthesky.com
 
-My personal website. Plain HTML, CSS, and JS, no build step.
+My personal website: a little about who I am, the projects and apps I've
+built, my open-source work, and my writing.
 
-Hosted on GitHub Pages (main branch, root).
-
-## Preview locally
-
-```bash
-node serve.mjs
-# open http://localhost:4321
-```
+Live at https://kesha.twounderthesky.com
